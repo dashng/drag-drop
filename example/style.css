@@ -15,3 +15,11 @@ div.elements {
 .form {
     width: 100%;
 }
+
+.place_holder_after {
+    border: 1px solid red !important;
+}
+
+.form_el_row {
+    border: 1px solid #ddd;
+}
