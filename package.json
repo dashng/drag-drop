@@ -1,0 +1,25 @@
+{
+  "name": "drag-drop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashng/drag-drop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashng/drag-drop/issues"
+  },
+  "homepage": "https://github.com/dashng/drag-drop#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}

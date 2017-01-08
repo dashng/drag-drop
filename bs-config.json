@@ -1,0 +1,6 @@
+{
+  "port": 8999,
+  "browser": ["chrome"],
+  "files": ["./lib/**/*.{html,htm,css,js}"],
+  "server": { "baseDir": "./" }
+}
